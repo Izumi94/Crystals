@@ -1,3 +1,4 @@
 .header {
-    max-width: 86px;
+    min-height: 86px;
+    background: #fff;
 }

@@ -1,3 +1,4 @@
 .hero {
-    background-image: url('../../images/hero-bg.png') no-repeat;
+    min-height: 747px;
+    background: url('../../images/hero-bg.png') no-repeat;
 }
