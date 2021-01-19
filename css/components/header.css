@@ -1,4 +1,19 @@
 .header {
-    min-height: 86px;
     background: #fff;
+}
+
+.header__row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
 }
