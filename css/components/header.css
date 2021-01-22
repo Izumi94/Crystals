@@ -7,7 +7,8 @@
     justify-content: space-between;
 }
 
-.header__text {
+.header__text { 
+    font-family: 'Basis Grotesque Pro';
     font-style: normal;
     font-weight: 700;
     font-size: 16px;

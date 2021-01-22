@@ -1,0 +1,29 @@
+.shop {
+    background: url("../../images/shop-bg.png");
+}
+
+.shop__text {
+    font-family: "Basis Grotesque Pro";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 68px;
+    color: #000000;
+    width: 470px;
+    margin-top: 105px;
+}
+
+.shop__row {
+    display: flex;
+}
+
+.shop__button {
+    height: 48px;
+    width: 190px;
+    left: 0.22%;
+    right: 64.22%;
+    top: 599px;
+    background: #000000;
+    border-radius: 32px;
+    color: #fff;
+}
